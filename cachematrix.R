@@ -1,4 +1,4 @@
-### rpog-010 Programming Assignment2: Caching the Inverse of a Matrix
+### rprog-010 Programming Assignment2: Caching the Inverse of a Matrix
 # For this assignment, assume that the matrix supplied is always invertible.
 
 # makeCacheMatrix: This function creates a special "matrix" object
